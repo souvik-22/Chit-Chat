@@ -1,7 +1,6 @@
 # Chit-Chat Application
 
 ![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
-![img]https://i.imgur.com/WizLNwS.png[/img]
 
 <!-- ## Introduction
 
